@@ -1,12 +1,11 @@
 127.0.0.1	localhost localhost.localdomain
 
-127.0.0.1   pagead2.googlesyndication.com
-127.0.0.1   a.prisacom.com
-127.0.0.1   blstj.msn.com
-127.0.0.1   ds.serving-sys.com
-127.0.0.1   imagen1.247realmedia.com
-127.0.0.1   estj.msn.com
-127.0.0.1   www.facebook.com
-127.0.0.1   cdn.api.twitter.com
-127.0.0.1   api.twitter.com
-
+192.168.92.94   pagead2.googlesyndication.com
+192.168.92.94   a.prisacom.com
+192.168.92.94   blstj.msn.com
+192.168.92.94   ds.serving-sys.com
+192.168.92.94   imagen1.247realmedia.com
+192.168.92.94   estj.msn.com
+192.168.92.94   www.facebook.com
+192.168.92.94   cdn.api.twitter.com
+192.168.92.94   api.twitter.com
