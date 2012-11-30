@@ -4,6 +4,7 @@
 192.168.92.94   a.prisacom.com
 192.168.92.94   blstj.msn.com
 192.168.92.94   ds.serving-sys.com
+192.168.92.94	bs.serving-sys.com
 192.168.92.94   imagen1.247realmedia.com
 192.168.92.94   estj.msn.com
 192.168.92.94   www.facebook.com
@@ -13,7 +14,6 @@
 192.168.92.94   search.twitter.com
 192.168.92.94	atemda.com
 192.168.92.94	s.atemda.com
-192.168.92.94	bs.serving-sys.com
 192.168.92.94	googleads.g.doubleclick.net
 192.168.92.94	pagead2.googlesyndication.com
 192.168.92.94	impes.tradedoubler.com
@@ -43,3 +43,4 @@
 192.168.92.94	secure-uk.imrworldwide.com
 192.168.92.94 	s-static.ak.facebook.com
 192.168.92.94 	www.google-analytics.com
+192.168.92.94 	apis.google.com
