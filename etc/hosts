@@ -1,22 +1,22 @@
 127.0.0.1	localhost localhost.localdomain
 
-65.110.72.16     www.listindiario.com
-63.134.216.63    images2.listindiario.com
-195.77.249.47    pre.elperiodico.com
-195.77.249.47    pre.elperiodico.cat
+65.110.72.16 www.listindiario.com
+63.134.216.63 images2.listindiario.com
+195.77.249.47 pre.elperiodico.com
+195.77.249.47 pre.elperiodico.cat
 
-192.168.92.94   pagead2.googlesyndication.com
-192.168.92.94   a.prisacom.com
-192.168.92.94   blstj.msn.com
-192.168.92.94   ds.serving-sys.com
+192.168.92.94 pagead2.googlesyndication.com
+192.168.92.94 a.prisacom.com
+192.168.92.94 blstj.msn.com
+192.168.92.94 ds.serving-sys.com
 192.168.92.94	bs.serving-sys.com
-192.168.92.94   imagen1.247realmedia.com
-192.168.92.94   estj.msn.com
-192.168.92.94   www.facebook.com
-192.168.92.94   connect.facebook.net
-192.168.92.94   cdn.api.twitter.com
-192.168.92.94   api.twitter.com
-192.168.92.94   search.twitter.com
+192.168.92.94 imagen1.247realmedia.com
+192.168.92.94 estj.msn.com
+192.168.92.94 www.facebook.com
+192.168.92.94 connect.facebook.net
+192.168.92.94 cdn.api.twitter.com
+192.168.92.94 api.twitter.com
+192.168.92.94 search.twitter.com
 192.168.92.94	atemda.com
 192.168.92.94	s.atemda.com
 192.168.92.94	googleads.g.doubleclick.net
@@ -25,12 +25,12 @@
 192.168.92.94	ads.revsci.net
 192.168.92.94	pix04.revsci.net
 192.168.92.94	bankinteres.solution.weborama.fr
-192.168.92.94   www.aldaniti.net
-192.168.92.94   static.trabajando.com
-192.168.92.94   www.expansionyempleo.com
-192.168.92.94   comcluster.cxense.com
-192.168.92.94   t.adcloud.net
-192.168.92.94   www.ipyme.org
+192.168.92.94 www.aldaniti.net
+192.168.92.94 static.trabajando.com
+192.168.92.94 www.expansionyempleo.com
+192.168.92.94 comcluster.cxense.com
+192.168.92.94 t.adcloud.net
+192.168.92.94 www.ipyme.org
 192.168.92.94	adserver.economiadigital.es
 192.168.92.94	ads.adcloud.net
 192.168.92.94	a.adcloud.net
@@ -47,5 +47,6 @@
 192.168.92.94	b.scorecardresearch.com
 192.168.92.94	sb.scorecardresearch.com
 192.168.92.94	secure-uk.imrworldwide.com
-192.168.92.94 	s-static.ak.facebook.com
-192.168.92.94 	apis.google.com
+192.168.92.94 s-static.ak.facebook.com
+192.168.92.94 apis.google.com
+192.168.92.94 www.google-analytics.com
